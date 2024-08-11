@@ -1,3 +1,4 @@
+# **MPU**
 # Problem 1: Angle Recording using MPU-6050
 
 ## Introduction to Motion Sensors
