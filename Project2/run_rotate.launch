@@ -1,0 +1,6 @@
+<launch>
+
+    <node pkg = "turtlesim" type = "turtlesim_node" name = "turtle" output ="screen"/>
+    <node pkg = "demo_pkg" type = "Q1.py" name = "turtle1" output = "screen"/>
+    <node pkg = "demo_pkg" type = "Q2.py" name = "turtle2" output = "screen"/>
+</launch>
